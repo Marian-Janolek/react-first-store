@@ -54,8 +54,8 @@ const Wrapper = styled.section`
     padding: 2.5rem 2rem;
     border-radius: var(--radius);
     transition: all 0.5s ease-in-out;
-    -webkit-box-shadow: 0px 0px 3px 6px rgba(0,0,0,0.35); 
-    box-shadow: 0px 0px 3px 6px rgba(0,0,0,0.35);
+    -webkit-box-shadow: 0px 0px 2px 6px rgba(0,0,0,0.35); 
+    box-shadow: 0px 0px 2px 6px rgba(0,0,0,0.35);
     p {
       color: var(--clr-primary-2);
     }
