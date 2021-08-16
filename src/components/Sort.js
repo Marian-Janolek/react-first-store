@@ -16,7 +16,7 @@ const Sort = () => {
       <p>
         {products.length} products found
       </p>
-      <hr>
+      <hr >
       <form>
         <label htmlFor="sort">sort by</label>
         <select name="sort" id="sort" className='sort-input'
